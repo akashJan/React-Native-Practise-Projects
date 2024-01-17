@@ -1,0 +1,26 @@
+Create ReactNative Project
+
+npx react-native@latest init nameofProject
+
+npm start
+
+Add local.properties file in android
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+Add this rule in eslint file
+ rules: {
+    'prettier/prettier': 0,
+  },
+
+and commet out // trailingcomma // line
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+connect to wireless mobile ADV
+
+install extenstion ADB 
+type ip number from mobile settng  >ip coonection
+
+or 
+type adb conncet:
+code no :
+main ip no:
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
